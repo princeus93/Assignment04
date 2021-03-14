@@ -6,8 +6,17 @@ public class Pin : MonoBehaviour
 {
     private bool isPinned = false;
 
+    public AudioSource collisionSound;
+    public AudioSource explosionSound;
+
     public float speed = 20f;
     public Rigidbody2D rb;
+
+    private void Start()
+    {
+        collisionSound = GetComponent<AudioSource>();
+        explosionSound = GetComponent<AudioSource>();
+    }
 
     void Update()
     {
@@ -37,8 +46,12 @@ public class Pin : MonoBehaviour
             transform.SetParent(col.transform);
             Score.ScoreCount++;
             isPinned = true;
+
+            collisionSound.Play();
+            
         } else if(col.tag == "Pin")
         {
+            explosionSound.Play();
             FindObjectOfType<GameManager>().EndGame();
         }
     }

@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
 
     public void EndGame()
     {
-        if (gameHasEnded == false)
+        if (gameHasEnded)
         {
             return;
         }

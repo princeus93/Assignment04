@@ -507,3 +507,1710 @@ System memory in use after: 166.7 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2296.
 Total: 2.365914 ms (FindLiveObjects: 0.249146 ms CreateObjectMapping: 0.091519 ms MarkObjects: 1.927887 ms  DeleteObjects: 0.096631 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 3185.207238 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 1.wav
+  artifactKey: Guid(032a4f39620b7994aa36483d2e211ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 1.wav using Guid(032a4f39620b7994aa36483d2e211ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e4c34ed619618be40a4e18fcfa1d5d') in 0.454347 seconds
+  Import took 0.457775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 8.wav
+  artifactKey: Guid(38409f9445b30cf4c8071a75e5a423f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 8.wav using Guid(38409f9445b30cf4c8071a75e5a423f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472fe6967ae6faf435e1ca240d34b592') in 0.007946 seconds
+  Import took 0.011084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 4.wav
+  artifactKey: Guid(f3b834e881c44dc4382d47d5cb802931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 4.wav using Guid(f3b834e881c44dc4382d47d5cb802931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7771b0beaf6fbccd374b6f5c5f0956') in 0.005564 seconds
+  Import took 0.009186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 1.wav
+  artifactKey: Guid(d261d5fc8420f024fbd7b0e1d950d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 1.wav using Guid(d261d5fc8420f024fbd7b0e1d950d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8fd76358ee6df4db3bb72f35dc9262c') in 0.005634 seconds
+  Import took 0.008729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 2.wav
+  artifactKey: Guid(c9ccf6cbea8ec0a479e28ccb1f474e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 2.wav using Guid(c9ccf6cbea8ec0a479e28ccb1f474e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232b66cfb36d7597567ce7d8206d481f') in 0.006209 seconds
+  Import took 0.010312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 10.wav
+  artifactKey: Guid(a529f901bd51a994ab50b87aa4784457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 10.wav using Guid(a529f901bd51a994ab50b87aa4784457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df93cdc671df683cb9c2a3b376a62b4') in 0.005878 seconds
+  Import took 0.009027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 12.wav
+  artifactKey: Guid(7d12b8ffc45a795419fd6cbe363addd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 12.wav using Guid(7d12b8ffc45a795419fd6cbe363addd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7766e261d73a88dc0921d3f2db3a63a5') in 0.006149 seconds
+  Import took 0.009454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 3.wav
+  artifactKey: Guid(b3266b78b59e8f348a9e503484cf6e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 3.wav using Guid(b3266b78b59e8f348a9e503484cf6e02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d1a3c38f1ba6c26f5c4b5e8db6e807') in 0.005935 seconds
+  Import took 0.009249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 6.wav
+  artifactKey: Guid(7e3c778631cb0c449a183b8e80ef7209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 6.wav using Guid(7e3c778631cb0c449a183b8e80ef7209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19cfb9885824f55e18abcaf57bba6e99') in 0.005979 seconds
+  Import took 0.009269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 8.wav
+  artifactKey: Guid(d849118e03beaa04896b1ee7a2cd0eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 8.wav using Guid(d849118e03beaa04896b1ee7a2cd0eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ce38804be04ae1f39c220e354e237de') in 0.005567 seconds
+  Import took 0.009102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 6.wav
+  artifactKey: Guid(1734cebdf2bc02842a4652686c07cf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 6.wav using Guid(1734cebdf2bc02842a4652686c07cf90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ee4d0553550b948bfe2a5f6f0d2101') in 0.005813 seconds
+  Import took 0.009349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 10.wav
+  artifactKey: Guid(bff7b8d254e16dd46bd9b8e56d65fa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 10.wav using Guid(bff7b8d254e16dd46bd9b8e56d65fa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1054c621621ec7d9145c6a62c98cf2') in 0.006008 seconds
+  Import took 0.009482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 5.wav
+  artifactKey: Guid(a084b988fa69fe34994047e472f1a708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 5.wav using Guid(a084b988fa69fe34994047e472f1a708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbcd6e4e738c850c5312f2194740b237') in 0.005677 seconds
+  Import took 0.008972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 9.wav
+  artifactKey: Guid(c6a04df0a6c990e4d96821ef721bd9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 9.wav using Guid(c6a04df0a6c990e4d96821ef721bd9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f49cf48a42ec2d5ed20d01dcc07a0ac') in 0.005872 seconds
+  Import took 0.009185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 5.wav
+  artifactKey: Guid(2d07eba8eab06cb45898cb11da4a54e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 5.wav using Guid(2d07eba8eab06cb45898cb11da4a54e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd136839208b46a92144e4a4a4f20f2f7') in 0.005696 seconds
+  Import took 0.008992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 3.wav
+  artifactKey: Guid(bc92f9ca5161aab4d970660b7910dea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 3.wav using Guid(bc92f9ca5161aab4d970660b7910dea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0f19a38120d50d40f0e841b3f6a29f') in 0.005777 seconds
+  Import took 0.009112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 11.wav
+  artifactKey: Guid(26f0f934fb9804a4dbd72fa47aff5791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 11.wav using Guid(26f0f934fb9804a4dbd72fa47aff5791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '858c3c767fc24d3e8fb4b71362ba6dd1') in 0.007154 seconds
+  Import took 0.010531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 7.wav
+  artifactKey: Guid(01c97b38dbbdfb947aff7c91fff1efbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Jump & Attack 7.wav using Guid(01c97b38dbbdfb947aff7c91fff1efbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffe03451247b445c0950ff3bb82188f') in 0.006291 seconds
+  Import took 0.009823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 2.wav
+  artifactKey: Guid(9e4c5f2327fc67c49ac5c94471e3107a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 2.wav using Guid(9e4c5f2327fc67c49ac5c94471e3107a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2caac7f75d366a8728dace33abe89f53') in 0.005998 seconds
+  Import took 0.009499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 7.wav
+  artifactKey: Guid(effc0d496f2c4e144a91033290aefb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 7.wav using Guid(effc0d496f2c4e144a91033290aefb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7691d13dca8bc21bdcb4e3603a0030') in 0.006023 seconds
+  Import took 0.009494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 9.wav
+  artifactKey: Guid(0a14b81c9eeb97d42861fbdd686e65da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 9.wav using Guid(0a14b81c9eeb97d42861fbdd686e65da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922036e848d749a17f4c0ff103f1d2d1') in 0.005773 seconds
+  Import took 0.009601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 11.wav
+  artifactKey: Guid(f03ca00748cc75c438092911536058b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 11.wav using Guid(f03ca00748cc75c438092911536058b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91b116c938ce6469b5ae2bc08f98d3a3') in 0.005696 seconds
+  Import took 0.008946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 4.wav
+  artifactKey: Guid(e5afb3612f411224887c2576b4f8a2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Jump & Hit Damage Human Sounds/Hit & Damage 4.wav using Guid(e5afb3612f411224887c2576b4f8a2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb92a97e89cb3e9bf0a382a0d10f52d') in 0.005892 seconds
+  Import took 0.009232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.909579 seconds.
+  path: Assets/Scenes/Level01Scene.unity
+  artifactKey: Guid(f59052dac78db4e68ad58045bff77443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level01Scene.unity using Guid(f59052dac78db4e68ad58045bff77443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0f9773e1d43bb25d961eb063bd87e9') in 0.001321 seconds
+  Import took 0.004490 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000604 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.836 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.0 MB.
+System memory in use after: 175.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 2.321520 ms (FindLiveObjects: 0.291441 ms CreateObjectMapping: 0.087419 ms MarkObjects: 1.853444 ms  DeleteObjects: 0.077327 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.941 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.4 MB.
+System memory in use after: 175.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 2.308289 ms (FindLiveObjects: 0.238529 ms CreateObjectMapping: 0.048781 ms MarkObjects: 1.918707 ms  DeleteObjects: 0.101428 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 413.854141 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects
+  artifactKey: Guid(e1c647daf01145c43bfc1cf45a9ace1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects using Guid(e1c647daf01145c43bfc1cf45a9ace1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d899255f3f0963ecc033e17658d35a') in 0.004124 seconds
+  Import took 0.007395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003482 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects
+  artifactKey: Guid(e1c647daf01145c43bfc1cf45a9ace1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects using Guid(e1c647daf01145c43bfc1cf45a9ace1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d899255f3f0963ecc033e17658d35a') in 0.000858 seconds
+  Import took 0.004004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.023893 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio
+  artifactKey: Guid(468df39daa54a6a4ead2e7af8386d52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio using Guid(468df39daa54a6a4ead2e7af8386d52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5abee90c29a81ced953f37f48d994f16') in 0.000955 seconds
+  Import took 0.004391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.947566 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions
+  artifactKey: Guid(f0efafdb99d0b474181c4602b55eabe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions using Guid(f0efafdb99d0b474181c4602b55eabe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa65d714b7558c35e60ad5d99ca5682a') in 0.001014 seconds
+  Import took 0.004562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090642 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_01.wav
+  artifactKey: Guid(168dc94aa7e5db44b8e0eca7eeee5cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_01.wav using Guid(168dc94aa7e5db44b8e0eca7eeee5cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea729ee3eb0f04555fd74189529531a') in 0.038095 seconds
+  Import took 0.041441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_07.wav
+  artifactKey: Guid(ee15d44f52076de429349edc81c43fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_07.wav using Guid(ee15d44f52076de429349edc81c43fa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e779a407aa70d0f1d148dde1943a1c4d') in 0.006631 seconds
+  Import took 0.009743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_11.wav
+  artifactKey: Guid(8803e63aa9e859244b40f2a24701ac74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_11.wav using Guid(8803e63aa9e859244b40f2a24701ac74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a46806da31d02edddc113bf584446e5') in 0.005643 seconds
+  Import took 0.008775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_22.wav
+  artifactKey: Guid(7abf49847cb9b264aa2bae5da26f813f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_22.wav using Guid(7abf49847cb9b264aa2bae5da26f813f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e54abed4e35f05f995a02c1f473b158c') in 0.005696 seconds
+  Import took 0.008781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_08.wav
+  artifactKey: Guid(e00496b5f7ee32e4cb3022c957d104a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_08.wav using Guid(e00496b5f7ee32e4cb3022c957d104a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e17f97ec7583f1cc12ed308c3aff75a') in 0.006142 seconds
+  Import took 0.009396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_24.wav
+  artifactKey: Guid(3a1102cfe71d49b45b346d354ee58f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_24.wav using Guid(3a1102cfe71d49b45b346d354ee58f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59372faf570464e31ee98fb4fcfdb34a') in 0.006323 seconds
+  Import took 0.009583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_26.wav
+  artifactKey: Guid(69b979f1f560c734297f6acdd34de3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_26.wav using Guid(69b979f1f560c734297f6acdd34de3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3512fe1c8f83bdc281b95ce4fa6eb7') in 0.005768 seconds
+  Import took 0.008939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_28.wav
+  artifactKey: Guid(6ec252decff9ffb4780bd614d9c661d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_28.wav using Guid(6ec252decff9ffb4780bd614d9c661d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd208f8089bc46a68621350ba262eb7d8') in 0.005577 seconds
+  Import took 0.008756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_20.wav
+  artifactKey: Guid(9423ca7d65174594c9ba6fa5c11a96c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_20.wav using Guid(9423ca7d65174594c9ba6fa5c11a96c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c317f6cd5d54703866dee9ab3200664') in 0.005509 seconds
+  Import took 0.008781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_25.wav
+  artifactKey: Guid(3ce88d84d5b481543bca7cec0563af04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_25.wav using Guid(3ce88d84d5b481543bca7cec0563af04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ecaf5ed1ce5c0d5d4b2b594b3c23a55') in 0.006241 seconds
+  Import took 0.009416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_17.wav
+  artifactKey: Guid(f00a0ebab15844f49a1e53d7a54c0f98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_17.wav using Guid(f00a0ebab15844f49a1e53d7a54c0f98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106422460cfa86673e90ccc402993037') in 0.005778 seconds
+  Import took 0.008866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_15.wav
+  artifactKey: Guid(e83bed595307f4e4e8248aa5c4e9f10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_15.wav using Guid(e83bed595307f4e4e8248aa5c4e9f10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e6521b14c102cd788a01e8a42bd1c5') in 0.006004 seconds
+  Import took 0.009334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_03.wav
+  artifactKey: Guid(48e8c1d365e3fea4a8c53774c6f96a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_03.wav using Guid(48e8c1d365e3fea4a8c53774c6f96a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9099a357df1ef722d8b7e47fc66e4c') in 0.005665 seconds
+  Import took 0.008921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_04.wav
+  artifactKey: Guid(a6b9fe185a1239346a0cfd37c93aeee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_04.wav using Guid(a6b9fe185a1239346a0cfd37c93aeee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18554531606acc05f898b648ca4f8a0') in 0.005866 seconds
+  Import took 0.009045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_23.wav
+  artifactKey: Guid(9309d8e980026ba4e8f4bf86071f54e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_23.wav using Guid(9309d8e980026ba4e8f4bf86071f54e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37e6b7d92fc031dbff566330515204a') in 0.006019 seconds
+  Import took 0.009310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_27.wav
+  artifactKey: Guid(f65d3235d8c2af047a3a20b6e1240bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_27.wav using Guid(f65d3235d8c2af047a3a20b6e1240bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '776f1c885cb0ee990a82151cb7713f10') in 0.005969 seconds
+  Import took 0.009259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_02.wav
+  artifactKey: Guid(e7cb68da88d8b274eb008f9a214589d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_02.wav using Guid(e7cb68da88d8b274eb008f9a214589d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2558723cbb7b32e5953729cdf6af3f99') in 0.006977 seconds
+  Import took 0.010109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_09.wav
+  artifactKey: Guid(c66dd77d6b3c50c48bb98ba65e94cd0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_09.wav using Guid(c66dd77d6b3c50c48bb98ba65e94cd0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752947605b17d1a78f4c88b2a69d1743') in 0.005922 seconds
+  Import took 0.009374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_29.wav
+  artifactKey: Guid(28596d333fba1cd46a9a997ddae0b044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_29.wav using Guid(28596d333fba1cd46a9a997ddae0b044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f211866ac262a69515856186659e1753') in 0.006198 seconds
+  Import took 0.009492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_14.wav
+  artifactKey: Guid(1b35789828ff58c41b0c2d6680b6748e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_14.wav using Guid(1b35789828ff58c41b0c2d6680b6748e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b364e1566fe612802cae556c9e6196') in 0.005740 seconds
+  Import took 0.008920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_10.wav
+  artifactKey: Guid(d53b54be91bd92142a3ca39fe1b7eca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_10.wav using Guid(d53b54be91bd92142a3ca39fe1b7eca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3542a32bcfdcb0f69d7a1e7b5443af4a') in 0.006096 seconds
+  Import took 0.009602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_05.wav
+  artifactKey: Guid(3495ff9f530360a41b88bdefc93415af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_05.wav using Guid(3495ff9f530360a41b88bdefc93415af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc00905a9a4487ba3505c58c8218613a') in 0.006008 seconds
+  Import took 0.009249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_18.wav
+  artifactKey: Guid(32dcff4de7e0b2643aad9a0247880525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_18.wav using Guid(32dcff4de7e0b2643aad9a0247880525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461d76feacab4e7cb008dd6eaf440bc9') in 0.005857 seconds
+  Import took 0.009209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_06.wav
+  artifactKey: Guid(5d047e2b1d4a55b41ba55bbfc2000f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_06.wav using Guid(5d047e2b1d4a55b41ba55bbfc2000f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07cda97fbdd7f54e7071095141d3c7f') in 0.006250 seconds
+  Import took 0.009551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_16.wav
+  artifactKey: Guid(5799bd8b62120a446b5a85033874a5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_16.wav using Guid(5799bd8b62120a446b5a85033874a5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59596ef09758dc6d37f021c7b308a5a3') in 0.005728 seconds
+  Import took 0.009044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_13.wav
+  artifactKey: Guid(f94ab277ece8faf45935ac2b1966185a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_13.wav using Guid(f94ab277ece8faf45935ac2b1966185a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0036253383da49e35bcdf15bc7f341f1') in 0.006088 seconds
+  Import took 0.009406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_21.wav
+  artifactKey: Guid(848a0c4719f42f54f9d4b88c70ac75e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_21.wav using Guid(848a0c4719f42f54f9d4b88c70ac75e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290307c2ac02d0922dc612af38f87936') in 0.005837 seconds
+  Import took 0.009153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_12.wav
+  artifactKey: Guid(db3d455f853b21a43b5c7803d15a5517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_12.wav using Guid(db3d455f853b21a43b5c7803d15a5517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473bd98ffe1f2c04caf9da18bd839a7c') in 0.005781 seconds
+  Import took 0.009072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_30.wav
+  artifactKey: Guid(a4c840149a8e4a5489716934a4c85853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_30.wav using Guid(a4c840149a8e4a5489716934a4c85853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce86858b973cf55fa877da672163bcfb') in 0.005578 seconds
+  Import took 0.009053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_19.wav
+  artifactKey: Guid(7020f67507d2c0c48b4e7a2449bfad82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_19.wav using Guid(7020f67507d2c0c48b4e7a2449bfad82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee67454b1ddee3c62f78a28a0ddb1d5') in 0.006008 seconds
+  Import took 0.009343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008838 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_30.wav
+  artifactKey: Guid(a4c840149a8e4a5489716934a4c85853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Explosions/explosion_30.wav using Guid(a4c840149a8e4a5489716934a4c85853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce86858b973cf55fa877da672163bcfb') in 0.005973 seconds
+  Import took 0.009396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.095072 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_01.wav
+  artifactKey: Guid(1c58c7f7749b57040b9ca8ab09f7d514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_01.wav using Guid(1c58c7f7749b57040b9ca8ab09f7d514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c4f75515d799680931f505cfa1eb4e') in 0.006360 seconds
+  Import took 0.009569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_19.wav
+  artifactKey: Guid(d92ee88c0f6e25642ad6906d33e8fa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_19.wav using Guid(d92ee88c0f6e25642ad6906d33e8fa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae36e510def43ef7d2031d4c69f1d370') in 0.006316 seconds
+  Import took 0.009224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_04.wav
+  artifactKey: Guid(2adb857f469be6542b88433c6cb895b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_04.wav using Guid(2adb857f469be6542b88433c6cb895b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5305ce5f768af9a94886727b2d4a5b7') in 0.005896 seconds
+  Import took 0.008812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_14.wav
+  artifactKey: Guid(09c4acdb130de4845b8eb54f58fd7d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_14.wav using Guid(09c4acdb130de4845b8eb54f58fd7d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f254a49463ed9c65032c7dbb95dab313') in 0.005445 seconds
+  Import took 0.008763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_12.wav
+  artifactKey: Guid(ae65ddc2daf7c684699b8f247f422079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_12.wav using Guid(ae65ddc2daf7c684699b8f247f422079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5514e0f4303e1358cd99af4dec1d91a4') in 0.005104 seconds
+  Import took 0.008003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_03.wav
+  artifactKey: Guid(2c7c1ba459fd5004bb96c0931c4bd203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_03.wav using Guid(2c7c1ba459fd5004bb96c0931c4bd203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0e49ce8c814949760be1dd746ed980') in 0.005106 seconds
+  Import took 0.007948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_28.wav
+  artifactKey: Guid(4eed1349933051f41b141f30fe69f39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_28.wav using Guid(4eed1349933051f41b141f30fe69f39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496c2e6700e04b518f5d48bba6c7b7d9') in 0.005476 seconds
+  Import took 0.008399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_22.wav
+  artifactKey: Guid(84091a8ecd48cbf458b30a10d7f1db8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_22.wav using Guid(84091a8ecd48cbf458b30a10d7f1db8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f79eda5b3e4cf33720a74ec846d4140b') in 0.005275 seconds
+  Import took 0.008109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_17.wav
+  artifactKey: Guid(44d001b2e4e072549affa584142e3ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_17.wav using Guid(44d001b2e4e072549affa584142e3ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77032141951610e57ff7ae31a030ca7c') in 0.004955 seconds
+  Import took 0.007801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_20.wav
+  artifactKey: Guid(2be9c41ad5011f6428b4cd5e32f630f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_20.wav using Guid(2be9c41ad5011f6428b4cd5e32f630f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e8a7635c3bbc0ae4e97e3b30bbca195') in 0.005293 seconds
+  Import took 0.008153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_15.wav
+  artifactKey: Guid(5d0d26e3cc3617f448fa1f9be03bc270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_15.wav using Guid(5d0d26e3cc3617f448fa1f9be03bc270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78079b967458182a01e9ea9e76576eb') in 0.005275 seconds
+  Import took 0.008502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_02.wav
+  artifactKey: Guid(0935eca375df3de4288dfa6a30f20719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_02.wav using Guid(0935eca375df3de4288dfa6a30f20719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea79db266aa63320b0694fca0f96df06') in 0.005159 seconds
+  Import took 0.008242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_18.wav
+  artifactKey: Guid(df8dfd836ff5a3242b7634226138ad12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_18.wav using Guid(df8dfd836ff5a3242b7634226138ad12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120ae13f519c6548d4c74f4f934e24de') in 0.006372 seconds
+  Import took 0.009329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_24.wav
+  artifactKey: Guid(01e39309f251ed44fa21e31750437e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_24.wav using Guid(01e39309f251ed44fa21e31750437e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3be38a470a7941695da39bf090e44d') in 0.005489 seconds
+  Import took 0.008706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_08.wav
+  artifactKey: Guid(be1373f63d582774fb0920b9f029aff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_08.wav using Guid(be1373f63d582774fb0920b9f029aff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bec39d3c81afeacc6dd16e0c09ede03') in 0.005188 seconds
+  Import took 0.008337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_30.wav
+  artifactKey: Guid(9f4ff5b61d18b30488bc1ca566ae1367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_30.wav using Guid(9f4ff5b61d18b30488bc1ca566ae1367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fedc4048da79179a260a6cd3146f964') in 0.005307 seconds
+  Import took 0.008399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_05.wav
+  artifactKey: Guid(8ec32e085dc500243a1df3680f164189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_05.wav using Guid(8ec32e085dc500243a1df3680f164189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847b0b027e8a369f1fe35c4b816e7efc') in 0.005462 seconds
+  Import took 0.008527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_27.wav
+  artifactKey: Guid(70414c508cbe9274e9f53070ff311352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_27.wav using Guid(70414c508cbe9274e9f53070ff311352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82680ddee53a830d136c48cf95ff1ff') in 0.006649 seconds
+  Import took 0.009836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_16.wav
+  artifactKey: Guid(c461b547b9c507c42b617904589eaa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_16.wav using Guid(c461b547b9c507c42b617904589eaa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0502c807ea7d47524a6905aa85370a8') in 0.006551 seconds
+  Import took 0.009702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_25.wav
+  artifactKey: Guid(87c01bcbf9726b64ba73c21bfe204ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_25.wav using Guid(87c01bcbf9726b64ba73c21bfe204ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '736788c6a27a9e562c22cfeedbddc2d8') in 0.005271 seconds
+  Import took 0.008481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_11.wav
+  artifactKey: Guid(8b16d7798eecd2d4e9063f104bab1365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_11.wav using Guid(8b16d7798eecd2d4e9063f104bab1365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d85be07a5b64d328785940cbb63899') in 0.005205 seconds
+  Import took 0.008320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_09.wav
+  artifactKey: Guid(ce44f5886b8417f4d867038263fa3eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_09.wav using Guid(ce44f5886b8417f4d867038263fa3eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0705d352c51e50f3ba1ff2cc47a803c5') in 0.005403 seconds
+  Import took 0.008532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_06.wav
+  artifactKey: Guid(de73966338437904cbaadc3efaa1a5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_06.wav using Guid(de73966338437904cbaadc3efaa1a5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a739f6dc24c0441bba6ac769dc33f95b') in 0.005622 seconds
+  Import took 0.008714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_07.wav
+  artifactKey: Guid(59b9d05e64a9bc348a3ec089846f7fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_07.wav using Guid(59b9d05e64a9bc348a3ec089846f7fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628cf67319b7f84e1ca000d6c2a4e3f3') in 0.005455 seconds
+  Import took 0.008582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_26.wav
+  artifactKey: Guid(ac3387bb90c1dd549953562480e95ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_26.wav using Guid(ac3387bb90c1dd549953562480e95ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb527c1343a72376f4a193c2a7420c8') in 0.005456 seconds
+  Import took 0.008986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_13.wav
+  artifactKey: Guid(cc591548c67d2be4cace8559706e9e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_13.wav using Guid(cc591548c67d2be4cace8559706e9e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b8ea93c55310a335eca1c71178b342') in 0.005340 seconds
+  Import took 0.008484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_23.wav
+  artifactKey: Guid(f221e2c628aa49640bd4edf4466a4c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_23.wav using Guid(f221e2c628aa49640bd4edf4466a4c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c5f6dcc6ad62c1dc554fa7b6ef724f') in 0.005629 seconds
+  Import took 0.008715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_21.wav
+  artifactKey: Guid(84de76713d919274db33ba726f1fb3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_21.wav using Guid(84de76713d919274db33ba726f1fb3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e411b3a01edb3a741da129dcff7a12a3') in 0.005334 seconds
+  Import took 0.008579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_29.wav
+  artifactKey: Guid(293ab88c87fec6141bf4a181203ebaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_29.wav using Guid(293ab88c87fec6141bf4a181203ebaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1392b7a8745718497cfc0c0fbc0b749') in 0.005468 seconds
+  Import took 0.008737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_10.wav
+  artifactKey: Guid(624d89c15403bbc489b69f892553b9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_10.wav using Guid(624d89c15403bbc489b69f892553b9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84bccfe06f66632a8a575a1072e77c89') in 0.005743 seconds
+  Import took 0.009065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011843 seconds.
+  path: Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_29.wav
+  artifactKey: Guid(293ab88c87fec6141bf4a181203ebaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zero Rare/Retro Sound Effects/Audio/Hit/hit_29.wav using Guid(293ab88c87fec6141bf4a181203ebaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1392b7a8745718497cfc0c0fbc0b749') in 0.006823 seconds
+  Import took 0.010235 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.848 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.3 MB.
+System memory in use after: 177.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 2.351024 ms (FindLiveObjects: 0.272705 ms CreateObjectMapping: 0.093739 ms MarkObjects: 1.893971 ms  DeleteObjects: 0.089607 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000542 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.861 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.6 MB.
+System memory in use after: 177.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 2.267481 ms (FindLiveObjects: 0.238783 ms CreateObjectMapping: 0.047423 ms MarkObjects: 1.890988 ms  DeleteObjects: 0.089442 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000801 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.875 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.0 MB.
+System memory in use after: 177.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2322.
+Total: 2.475719 ms (FindLiveObjects: 0.255021 ms CreateObjectMapping: 0.050181 ms MarkObjects: 2.060165 ms  DeleteObjects: 0.109610 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000454 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.857 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.4 MB.
+System memory in use after: 177.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2325.
+Total: 2.265849 ms (FindLiveObjects: 0.255359 ms CreateObjectMapping: 0.046167 ms MarkObjects: 1.877465 ms  DeleteObjects: 0.086250 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000484 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 177.8 MB.
+System memory in use after: 177.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2328.
+Total: 2.355329 ms (FindLiveObjects: 0.262696 ms CreateObjectMapping: 0.062631 ms MarkObjects: 1.931939 ms  DeleteObjects: 0.097109 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000507 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.1 MB.
+System memory in use after: 178.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 2.183422 ms (FindLiveObjects: 0.233248 ms CreateObjectMapping: 0.053274 ms MarkObjects: 1.813153 ms  DeleteObjects: 0.082768 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000504 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.5 MB.
+System memory in use after: 178.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 2.417180 ms (FindLiveObjects: 0.250966 ms CreateObjectMapping: 0.051959 ms MarkObjects: 2.015802 ms  DeleteObjects: 0.097030 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000654 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.923 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.8 MB.
+System memory in use after: 178.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2337.
+Total: 2.382588 ms (FindLiveObjects: 0.287226 ms CreateObjectMapping: 0.093721 ms MarkObjects: 1.906595 ms  DeleteObjects: 0.093914 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.2 MB.
+System memory in use after: 178.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 2.403316 ms (FindLiveObjects: 0.256122 ms CreateObjectMapping: 0.088056 ms MarkObjects: 1.969172 ms  DeleteObjects: 0.089049 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.6 MB.
+System memory in use after: 178.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 2.331214 ms (FindLiveObjects: 0.268928 ms CreateObjectMapping: 0.092387 ms MarkObjects: 1.880900 ms  DeleteObjects: 0.087414 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.908 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.9 MB.
+System memory in use after: 178.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 2.310354 ms (FindLiveObjects: 0.250012 ms CreateObjectMapping: 0.095679 ms MarkObjects: 1.874154 ms  DeleteObjects: 0.089680 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000539 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.897 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.3 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 2.475201 ms (FindLiveObjects: 0.279790 ms CreateObjectMapping: 0.054020 ms MarkObjects: 2.035112 ms  DeleteObjects: 0.105194 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000453 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.7 MB.
+System memory in use after: 179.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 2.466945 ms (FindLiveObjects: 0.259631 ms CreateObjectMapping: 0.088007 ms MarkObjects: 2.014347 ms  DeleteObjects: 0.103198 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000538 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.873 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.9 MB.
+System memory in use after: 179.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2355.
+Total: 2.434127 ms (FindLiveObjects: 0.320397 ms CreateObjectMapping: 0.090468 ms MarkObjects: 1.926091 ms  DeleteObjects: 0.095688 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000577 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.5 MB.
+System memory in use after: 179.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2358.
+Total: 2.481030 ms (FindLiveObjects: 0.263053 ms CreateObjectMapping: 0.051241 ms MarkObjects: 2.072812 ms  DeleteObjects: 0.093162 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000521 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.8 MB.
+System memory in use after: 179.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 2.383612 ms (FindLiveObjects: 0.278495 ms CreateObjectMapping: 0.054900 ms MarkObjects: 1.957082 ms  DeleteObjects: 0.092364 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000568 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.2 MB.
+System memory in use after: 180.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 2.440602 ms (FindLiveObjects: 0.257411 ms CreateObjectMapping: 0.049819 ms MarkObjects: 2.019246 ms  DeleteObjects: 0.112709 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000496 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.5 MB.
+System memory in use after: 180.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 2.371824 ms (FindLiveObjects: 0.245638 ms CreateObjectMapping: 0.050359 ms MarkObjects: 1.966496 ms  DeleteObjects: 0.108359 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.904 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.9 MB.
+System memory in use after: 180.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2370.
+Total: 2.452655 ms (FindLiveObjects: 0.256829 ms CreateObjectMapping: 0.051166 ms MarkObjects: 2.030871 ms  DeleteObjects: 0.112924 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1085.514128 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712b69537204a7b6ba9863c236349868') in 0.326140 seconds
+  Import took 0.329605 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.7 MB.
+System memory in use after: 184.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2374.
+Total: 2.343124 ms (FindLiveObjects: 0.270125 ms CreateObjectMapping: 0.065610 ms MarkObjects: 1.876964 ms  DeleteObjects: 0.129677 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.484588 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d63665bd0b1c4b32fc9ec66d5ab1829') in 0.054106 seconds
+  Import took 0.057864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.818537 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67838ac5abe028f073a0db23269e780') in 0.007782 seconds
+  Import took 0.011160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.311881 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ac75ecae7dfcad8483e6a3df86ac3f3') in 0.006542 seconds
+  Import took 0.009878 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000601 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.1 MB.
+System memory in use after: 185.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2378.
+Total: 2.483885 ms (FindLiveObjects: 0.255585 ms CreateObjectMapping: 0.076532 ms MarkObjects: 2.016501 ms  DeleteObjects: 0.134068 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.5 MB.
+System memory in use after: 185.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 2.478617 ms (FindLiveObjects: 0.285435 ms CreateObjectMapping: 0.054235 ms MarkObjects: 2.024402 ms  DeleteObjects: 0.113425 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.658679 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7c8fbe9c08c73e0cf566e65e47d32f') in 0.048087 seconds
+  Import took 0.051712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.970833 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c37e0aeb89e1e8cc6f0eeec048dc76') in 0.006630 seconds
+  Import took 0.009942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012384 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c37e0aeb89e1e8cc6f0eeec048dc76') in 0.007000 seconds
+  Import took 0.010696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.497902 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01138bd8faefd3c324bb73f2f0a206e6') in 0.006901 seconds
+  Import took 0.010348 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000542 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.897 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.0 MB.
+System memory in use after: 186.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2385.
+Total: 2.468085 ms (FindLiveObjects: 0.246521 ms CreateObjectMapping: 0.053395 ms MarkObjects: 2.050046 ms  DeleteObjects: 0.117442 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.754086 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a36365fc6880ce6664e499094a0f750') in 0.049956 seconds
+  Import took 0.053379 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.891 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.4 MB.
+System memory in use after: 186.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 2.510408 ms (FindLiveObjects: 0.254459 ms CreateObjectMapping: 0.049895 ms MarkObjects: 2.066329 ms  DeleteObjects: 0.138803 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.248493 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398f684fee821f2f18641e847e1b632a') in 0.057753 seconds
+  Import took 0.061365 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000588 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.6 MB.
+System memory in use after: 186.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2393.
+Total: 2.371557 ms (FindLiveObjects: 0.243627 ms CreateObjectMapping: 0.057092 ms MarkObjects: 1.960026 ms  DeleteObjects: 0.110090 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.214369 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dea1567e44b467267ff01a231139ba3') in 0.053464 seconds
+  Import took 0.056848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.742520 seconds.
+  path: Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pin.prefab using Guid(11fcbb3b83bfc422e918b876e08ba159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20462e4e69dcc5d5a4aea2f7479323f7') in 0.007356 seconds
+  Import took 0.011151 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.2 MB.
+System memory in use after: 186.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2397.
+Total: 2.458789 ms (FindLiveObjects: 0.261887 ms CreateObjectMapping: 0.050652 ms MarkObjects: 1.997297 ms  DeleteObjects: 0.147700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.801114 seconds.
+  path: Assets/Sounds
+  artifactKey: Guid(b5607096ab64047a7a7a88a3f0c65cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds using Guid(b5607096ab64047a7a7a88a3f0c65cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338731e9344d091379a165c25255261a') in 0.004632 seconds
+  Import took 0.008084 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000619 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.907 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.5 MB.
+System memory in use after: 186.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2399.
+Total: 2.591913 ms (FindLiveObjects: 0.266580 ms CreateObjectMapping: 0.071053 ms MarkObjects: 2.138858 ms  DeleteObjects: 0.113968 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000496 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.9 MB.
+System memory in use after: 186.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2402.
+Total: 2.522064 ms (FindLiveObjects: 0.278234 ms CreateObjectMapping: 0.065407 ms MarkObjects: 2.067709 ms  DeleteObjects: 0.109764 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.426089 seconds.
+  path: Assets/Scenes/Level01Scene.unity
+  artifactKey: Guid(f59052dac78db4e68ad58045bff77443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level01Scene.unity using Guid(f59052dac78db4e68ad58045bff77443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a66d17e76d560b19db5acbee02b8e77') in 0.010691 seconds
+  Import took 0.014045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004052 seconds.
+  path: Assets/Scenes/Level01Scene.unity
+  artifactKey: Guid(f59052dac78db4e68ad58045bff77443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level01Scene.unity using Guid(f59052dac78db4e68ad58045bff77443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a66d17e76d560b19db5acbee02b8e77') in 0.001056 seconds
+  Import took 0.004477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.160846 seconds.
+  path: Assets/Scenes/MainMenuScene.unity
+  artifactKey: Guid(355470369bea6435f94a29005d74113f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenuScene.unity using Guid(355470369bea6435f94a29005d74113f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248c7cec0cf65d628c7015d149a989cd') in 0.001247 seconds
+  Import took 0.004497 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000691 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.3 MB.
+System memory in use after: 187.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2405.
+Total: 2.710540 ms (FindLiveObjects: 0.285684 ms CreateObjectMapping: 0.049395 ms MarkObjects: 2.249698 ms  DeleteObjects: 0.123882 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.6 MB.
+System memory in use after: 187.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2408.
+Total: 2.488363 ms (FindLiveObjects: 0.295928 ms CreateObjectMapping: 0.095996 ms MarkObjects: 1.992939 ms  DeleteObjects: 0.102170 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000540 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.0 MB.
+System memory in use after: 187.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2411.
+Total: 2.311769 ms (FindLiveObjects: 0.274386 ms CreateObjectMapping: 0.056725 ms MarkObjects: 1.897578 ms  DeleteObjects: 0.081920 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.969 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.4 MB.
+System memory in use after: 187.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2414.
+Total: 2.423614 ms (FindLiveObjects: 0.262041 ms CreateObjectMapping: 0.056572 ms MarkObjects: 1.996360 ms  DeleteObjects: 0.107782 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000609 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.7 MB.
+System memory in use after: 187.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2417.
+Total: 2.386604 ms (FindLiveObjects: 0.264759 ms CreateObjectMapping: 0.055257 ms MarkObjects: 1.968435 ms  DeleteObjects: 0.096938 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000548 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.884 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.1 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2420.
+Total: 2.396071 ms (FindLiveObjects: 0.262246 ms CreateObjectMapping: 0.078145 ms MarkObjects: 1.932547 ms  DeleteObjects: 0.121577 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 791.134093 seconds.
+  path: Assets/Amimations/Main Camera 1.controller
+  artifactKey: Guid(b34e4291609604d74941ac26e2cdc945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Amimations/Main Camera 1.controller using Guid(b34e4291609604d74941ac26e2cdc945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b320e300ff99940a7f7a7add965644f4') in 0.018576 seconds
+  Import took 0.022537 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.920 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.5 MB.
+System memory in use after: 188.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2423.
+Total: 2.512062 ms (FindLiveObjects: 0.283129 ms CreateObjectMapping: 0.056756 ms MarkObjects: 2.053845 ms  DeleteObjects: 0.116607 ms)
+
