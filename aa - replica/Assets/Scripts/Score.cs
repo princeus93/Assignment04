@@ -5,15 +5,25 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
-    public static int PinCount = 0;
+    public static int ScoreCount;
     public Text text;
+    
 
-    private void Start()
+    public void Update()
     {
-        PinCount = 0;
+        text.text = ScoreCount.ToString();
     }
-    private void Update()
+
+   public void SaveScore()
     {
-        text.text = PinCount.ToString();
+       Save.SaveScore(this);
+    }
+
+    public void LoadScore()
+    {
+
+        PlayerData data = Save.LoadScore();
+        ScoreCount = data.ScoreCount;
+        
     }
 }

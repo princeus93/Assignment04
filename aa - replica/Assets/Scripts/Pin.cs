@@ -11,22 +11,40 @@ public class Pin : MonoBehaviour
 
     void Update()
     {
+
         if (!isPinned)
         {
-            rb.MovePosition(rb.position + Vector2.up * speed * Time.deltaTime);
+            
+                rb.MovePosition(rb.position + Vector2.up * speed * Time.deltaTime);
+            
         }
+        
+        
     }
+
+    public void adjustSpeed(float newSpeed)
+    {
+        speed = newSpeed;
+    }
+
+
+    
 
     void OnTriggerEnter2D(Collider2D col)
     {
         if (col.tag == "Rotator")
         {
             transform.SetParent(col.transform);
-            Score.PinCount++;
+            Score.ScoreCount++;
             isPinned = true;
         } else if(col.tag == "Pin")
         {
             FindObjectOfType<GameManager>().EndGame();
         }
     }
+
+
+
+
+
 }

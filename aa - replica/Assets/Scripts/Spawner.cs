@@ -10,7 +10,7 @@ public class Spawner : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            SpawnPin();
+            SpawnPin();   
         }
     }
 

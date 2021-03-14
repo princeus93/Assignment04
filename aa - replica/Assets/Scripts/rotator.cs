@@ -10,4 +10,9 @@ public class rotator : MonoBehaviour
     {
         transform.Rotate(0f, 0f, speed * Time.deltaTime);    
     }
+
+    public void updateSpeed(float newSpeed)
+    {
+        speed = newSpeed;
+    }
 }
